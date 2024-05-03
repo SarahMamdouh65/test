@@ -1,0 +1,17 @@
+.modal {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 150px; /* Adjust width as needed */
+  height: auto; /* Adjust height as needed */
+  z-index: 1;
+}
+
+.visible {
+  display: block;
+}
+
+.hidden {
+  display: none;
+}
